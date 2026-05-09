@@ -5,15 +5,20 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Francisco Leite de Jesus
+- Matrícula: 927761
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+ - LISTAGEM DE TÍTULOS - 
+ ![titulos](public/img/titulos.png)
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+ - CÁLCULO DE MÉDIAS - 
+ ![medias](public/img/medias.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+<<- RESUMO DE VERIFICAÇÕES (SOME E EVERY) - 
+![verificao](public/img/verificação.png)
+
+- PÁGINA COM O RESUMO - 
+![resumo](public/img/print-pagina.png)
